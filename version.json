@@ -1,12 +1,22 @@
 {
-    "VersãoGeral": "1.0.1",
-    "UltimaVersão_DASMEI": "2.0.0",
+    "VersãoGeral": "1.0.2",
+    "UltimaVersão_DASMEI": "2.0.3",
     "release_notes": [
         {
             "version": "0.0.1",
             "date": "2023-10-01",
             "changes": [
                 "Lançamento inicial do programa.g"
+                
+            ]
+        },
+        {
+            "version": "1.0.2",
+            "date": "2024-02-15",
+            "changes": [
+                "algumas alterações no programa principal como um aviso para aguardar login",
+                "Correção de bugs na emissão do DAS",
+                "Adicionado botão para abrir pasta de download"
                 
             ]
         }
