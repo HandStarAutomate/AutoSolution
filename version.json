@@ -1,6 +1,6 @@
 {
-    "VersãoGeral": "1.0.3",
-    "UltimaVersão_DASMEI": "2.0.5",
+    "VersãoGeral": "1.0.4",
+    "UltimaVersão_DASMEI": "2.0.6",
     "release_notes": [
         {
             "version": "0.0.1",
@@ -17,6 +17,14 @@
                 "algumas alterações no programa principal como um aviso para aguardar login",
                 "Correção de bugs na emissão do DAS",
                 "Adicionado botão para abrir pasta de download"
+                
+            ]
+        },
+        {
+            "version": "1.0.4",
+            "date": "2025-04-07",
+            "changes": [
+                "Correção de bug ao DAS MEI não estava lendo mensagem da receita pois havia mudado"
                 
             ]
         }
